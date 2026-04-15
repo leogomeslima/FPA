@@ -1,0 +1,29 @@
+## Build
+bin/
+obj/
+
+## Visual Studio / Rider
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Logs
+*.log
+logs/
+
+## OS
+.DS_Store
+Thumbs.db
+
+## App settings sensíveis
+src/Fpa.Api/appsettings.Development.json
+
+## Coverage / Test
+coverage/
+TestResults/
+
+## Publish
+publish/
