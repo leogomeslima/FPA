@@ -20,6 +20,7 @@ Thumbs.db
 
 ## App settings sensíveis
 src/Fpa.Api/appsettings.Development.json
+src/Fpa.Api/appsettings.json
 
 ## Coverage / Test
 coverage/
