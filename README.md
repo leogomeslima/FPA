@@ -32,14 +32,14 @@ Expor indicadores financeiros e relatórios gerenciais por meio de uma API REST 
 
 Principais tabelas:
 
-- Companies
-- Departments
-- CostCenters
-- Accounts
-- Scenarios
-- ForecastVersions
-- FinancialEntries
-- Calendar
+- Empresas
+- Departamentos
+- Centros de Custo
+- Contas
+- Cenários
+- Versões de Previsão
+- Lançamentos Financeiros
+- Calendário
 
 ## Endpoints
 
